@@ -1,0 +1,46 @@
+.container-navbar {
+  width: 100%;
+  height: 7vh;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  /* border: 1px solid red; */
+}
+
+ul li {
+  font-size: 18px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.other {
+  /* border: 1px solid red; */
+
+  display: flex;
+}
+.other-icon {
+  text-align: center;
+  padding-top: 0.4rem;
+  font-size: 2rem;
+  color: rgb(238, 39, 55);
+  border-radius: 10px;
+  margin: 1rem;
+  width: 3rem;
+  box-shadow: 0 2px 5px rgb(238, 39, 55);
+  background-color: #FDE9EB;
+}
+
+.other-icon:hover {
+  cursor: pointer;
+}
