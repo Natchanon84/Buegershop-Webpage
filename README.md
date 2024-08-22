@@ -1,3 +1,3 @@
 # Buegershop Webpage
-    Preview
+  Link https://natchaaaa-burgershop-vite.netlify.app/
 ![ตัวอย่างภาพ](./src/Picture/preview.png)
